@@ -1,1 +1,1 @@
-# Tree-Visualizer
+# Binary-Tree-Visualizer
